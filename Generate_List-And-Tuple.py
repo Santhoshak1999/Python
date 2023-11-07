@@ -1,0 +1,5 @@
+values = input("Enter Some comma-separeted numbers: ")
+list = values.split("4")
+tuple = tuple(list)
+print("List: ", list)
+print("Tuple: ", tuple)
